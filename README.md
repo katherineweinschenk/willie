@@ -4,16 +4,14 @@ One-page static website for Willie's Landscaping and Home Repair, built for GitH
 
 ## Edit placeholders
 
-- Replace `(000) 000-0000` and `+10000000000` in `index.html` with the real phone number.
 - Replace `email@example.com` with the real email address.
 - Project images live in `assets/` and are referenced from `index.html`.
 
 ## GitHub Pages
 
-This site can be hosted from the repository root:
+This site deploys with GitHub Actions on every push to `main`.
 
 1. Push the files to the `main` branch.
 2. Open the repository settings on GitHub.
 3. Go to Pages.
-4. Choose "Deploy from a branch".
-5. Select `main` and `/root`.
+4. Under "Build and deployment", choose "GitHub Actions" as the source.
