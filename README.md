@@ -4,7 +4,6 @@ One-page static website for Willie's Landscaping and Home Repair, built for GitH
 
 ## Edit placeholders
 
-- Replace `email@example.com` with the real email address.
 - Project images live in `assets/` and are referenced from `index.html`.
 
 ## GitHub Pages
